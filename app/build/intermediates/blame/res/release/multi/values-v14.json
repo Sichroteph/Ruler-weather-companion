@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Christophe\\Documents\\Seafiles\\Seafile\\PC Virtuel\\Codage\\Android\\Ruler weather\\app\\build\\intermediates\\res\\merged\\release\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\Users\\Christophe\\Documents\\Seafiles\\Seafile\\PC Virtuel\\Codage\\Android\\Ruler weather\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 77,
+                        "endOffset": 90
+                    }
+                }
+            }
+        ]
+    }
+]

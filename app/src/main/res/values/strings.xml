@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ruler weather companion</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_alarm_manager">Ruler weather companion</string>
+	<string name="btCancel">Stop</string>
+	<string name="btStart">Start</string>
+	<string name="btOneTime">One-time Timer</string>
+    <string name="textView">One-time Timer</string>
+</resources>

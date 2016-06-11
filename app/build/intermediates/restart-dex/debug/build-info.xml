@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="1736961857270584" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="C:\Users\Christophe\Documents\Seafiles\Seafile\PC Virtuel\Codage\Android\Ruler weather\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="C:\Users\Christophe\Documents\Seafiles\Seafile\PC Virtuel\Codage\Android\Ruler weather\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        type="DEX" />
+
+    <build timestamp="1736368435778068" >
+        <artifact
+            location="C:\Users\Christophe\Documents\Seafiles\Seafile\PC Virtuel\Codage\Android\Ruler weather\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1736834032097434"
+        verifier="METHOD_DELETED" >
+        <artifact
+            location="C:\Users\Christophe\Documents\Seafiles\Seafile\PC Virtuel\Codage\Android\Ruler weather\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Christophe\Documents\Seafiles\Seafile\PC Virtuel\Codage\Android\Ruler weather\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Christophe\Documents\Seafiles\Seafile\PC Virtuel\Codage\Android\Ruler weather\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_57bd141ba8777ce4e90616c07caba79aa1923f17\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Christophe\Documents\Seafiles\Seafile\PC Virtuel\Codage\Android\Ruler weather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.getpebble-pebblekit-3.0.0_7dd7adc380d68133f725cf8835c22d8acd7ffb45\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Christophe\Documents\Seafiles\Seafile\PC Virtuel\Codage\Android\Ruler weather\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Christophe\Documents\Seafiles\Seafile\PC Virtuel\Codage\Android\Ruler weather\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Christophe\Documents\Seafiles\Seafile\PC Virtuel\Codage\Android\Ruler weather\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_db7f18535ab5f72aa4efd5b4e472460a8c6c4ccd\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Christophe\Documents\Seafiles\Seafile\PC Virtuel\Codage\Android\Ruler weather\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Christophe\Documents\Seafiles\Seafile\PC Virtuel\Codage\Android\Ruler weather\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Christophe\Documents\Seafiles\Seafile\PC Virtuel\Codage\Android\Ruler weather\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Christophe\Documents\Seafiles\Seafile\PC Virtuel\Codage\Android\Ruler weather\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Christophe\Documents\Seafiles\Seafile\PC Virtuel\Codage\Android\Ruler weather\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Christophe\Documents\Seafiles\Seafile\PC Virtuel\Codage\Android\Ruler weather\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_9c7e1b08203f1a0e61994fb1007335dcd7f2d2ed\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="1736961857270584" >
+        <artifact
+            location="C:\Users\Christophe\Documents\Seafiles\Seafile\PC Virtuel\Codage\Android\Ruler weather\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="C:\Users\Christophe\Documents\Seafiles\Seafile\PC Virtuel\Codage\Android\Ruler weather\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

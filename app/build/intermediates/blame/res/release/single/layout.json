@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Christophe\\Documents\\Seafiles\\Seafile\\PC Virtuel\\Codage\\Android\\Ruler weather\\app\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "C:\\Users\\Christophe\\Documents\\Seafiles\\Seafile\\PC Virtuel\\Codage\\Android\\Ruler weather\\app\\build\\intermediates\\exploded-aar\\com.getpebble\\pebblekit\\3.0.0\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Christophe\\Documents\\Seafiles\\Seafile\\PC Virtuel\\Codage\\Android\\Ruler weather\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_alarm_manager.xml",
+        "source": "C:\\Users\\Christophe\\Documents\\Seafiles\\Seafile\\PC Virtuel\\Codage\\Android\\Ruler weather\\app\\src\\main\\res\\layout\\activity_alarm_manager.xml"
+    }
+]
